@@ -1,0 +1,23 @@
+{
+  "name": "nestjs-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Terance98/nestjs-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Terance98/nestjs-course/issues"
+  },
+  "homepage": "https://github.com/Terance98/nestjs-course#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
